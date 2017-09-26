@@ -1,0 +1,45 @@
+body {
+	margin: 0;
+}
+.header {
+	background-color: #a62038;
+	padding: 25px;
+	text-align: center;
+}
+.header h1,
+.izma h1 {
+	color: #f5b14c;
+	margin: 0;
+	font-family: 'El Rio Lobo';
+}
+.header p, 
+.izma p {
+	color: white;
+	margin: 0;
+}
+.cuzco {
+    background-color: #008abb;
+    text-align: center;
+    padding: 35px;
+}
+.izma {
+	background-image: url(assets/images/cuzco2.jpg);
+	margin: 0;
+	text-align: right;
+	background-size: 100% auto;
+	min-height: 350px;
+}
+.precios{
+	text-align: center;
+	font-family: 'El Rio Lobo'
+}
+.precios h2{
+	font-size: 55px;
+	margin-bottom: 10px;
+}
+.precios table{
+	margin: 0 auto;
+}
+.precios table tr td{
+	font-size: 50px;
+}
